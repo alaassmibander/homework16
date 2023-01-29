@@ -1,5 +1,5 @@
-create database store;
-create table countries
+## create database store;
+## create table countries
 (
     code           int primary key,
     name           varchar(20) unique,
